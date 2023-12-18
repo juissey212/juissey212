@@ -362,3 +362,5 @@ print(r"""
 print('\033[2J')
 print("\u001b[32A")
 print("\u001b[0m            THE END")
+sleep(1)
+print('\033[2J')
