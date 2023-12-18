@@ -24,11 +24,11 @@ print('\u001b[32m'r"""
             `~,   .                     ./
                 . _                  .-PP
                   '`--._,dd###pp='''""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
 print("\u001b[32A", end="") 
 print(r"""
-                  .ovr:HMM#?:`' >b\\_
+                 .ovr:HMM#?:`' >b\\_
               .,:&Hi' `'   '' \\\\|&bSMHo_
             oHMMM#*}          `?&dMMMMMMHo.
          .dMMMH'''''           ,oHH*&&9MMMM?.
@@ -51,9 +51,9 @@ print(r"""
             -. `b,,    .                . '
               '-\\   .,               .-`
                   '-:b~\\\\_,oddq==--'""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print("""
                   _oo##'9MMHb':'-,o_
@@ -79,13 +79,13 @@ print("""
             -.         #M: .    .       .-
               ` .         .,         .-
                   '-.-~ooHH__,,v~--`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
-                    _,\\?dZkMHF&$*q#b..
-                .//9MMMMMMM?:'HM\\\\'`-''`..
+                 _,\\?dZkMHF&$*q#b..
+             .//9MMMMMMM?:'HM\\\\'`-''`..
           ..`  :MMMMMMMMMMHMMMMH?_    `-\\
        .     .dMMMMMMMMMMMMMM''''       `\\.
       .      |MMMMMMMMMMMMMR              \\\\
@@ -107,9 +107,9 @@ print(r"""
              `.                &M'..  .   ..'
                 ' .             ._     .-
                     '-. -voboo#&:,-.-`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
                 _\\oo\\?ddk9MRbS>v\\_
@@ -135,9 +135,9 @@ print(r"""
             -.                    ,M'-  ..'
               ` .                .. ..-`
                   '-. .\\ooooboo<^.-`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
                 _o\\:,??\\??MR9#cb\\_
@@ -163,9 +163,9 @@ print(r"""
            `.                         ,/\\ '
               '-..                  _.-
                   '---.._\\o,oov+--''""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
                   _,oc>?_:b?o?HH#b\\_
@@ -191,9 +191,9 @@ print(r"""
             -                           ,-'
               ' .                    .-
                  ```^==\\_.,,,ov--\\-`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
                   _,o#bH\\??::?o?cbo_
@@ -219,9 +219,9 @@ print(r"""
            ` .                          ..'
                - .                  ..-
                   '`*#d##c.._\\v----`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
                   _oo#H&d#b?\\b:_>>\\_
@@ -247,9 +247,9 @@ print(r"""
            `-                           ..'
               ' .                    .-
                   '`*##HMH##:__,-.-`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
                   _,dd#HMb&dHo?\\?:\\_
@@ -275,12 +275,12 @@ print(r"""
            `..                          ..'
               `  .                   .-
                   '`'#HHMMMMM#<>..-`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
-                  _,,>#b&HMHd&&bb>\\_
+                 _,,>#b&HMHd&&bb>\\_
               _oHMMMMMMMMMMMMMMMMH**H:.
             oHMMMMMMMMMMMMMMMMMMMM#v`?  `.
          .dMMMMMMMMMMMMMMMMMMMMMMH*`+|     .
@@ -303,9 +303,9 @@ print(r"""
            `.                           .-
               '- .                   .-`
                   '`\\bqHMMMMMMHHb--`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
                   _,<_:&S6dHHHb&bb\\_
@@ -331,9 +331,9 @@ print(r"""
            ` .                          . '
               ` .                    . `
                   '--##HH#HMMMHH#''`""", end="")
-sleep(0.5)
+sleep(1)
 print('\033[2J', end="")
-sleep(0.5)
+sleep(1)
 print("\u001b[32A", end="")
 print(r"""
                   .-:?,Z?:&$dHH##b\\_
@@ -361,4 +361,4 @@ print(r"""
                   ' -==pHMMH##HH#'''""")
 print('\033[2J')
 print("\u001b[32A")
-print("            The end")
+print("\u001b[0m            THE END")
